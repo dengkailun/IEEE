@@ -1,0 +1,643 @@
+,Abstract_num,Subject,std_Predicate,Predicate,Objects
+0,8052950,architecture,have , has," potential
+"
+1,8052950,architecture,base , based on," resistive processing unit RPU devices
+"
+2,8052950,potential,achieve , achieve," significant acceleration
+"
+3,8052950,today,'s , 's," implementations
+"
+4,8052950,today - software based based DNN implementations,run , running on," CPU GPU
+"
+5,8748502,Evolutionary algorithms,include , include," Particle Swam Optimization
+"
+6,8748502,machine learning algorithms,include , include," KNN
+"
+7,7906955,identifying suitable indicators,base , based on," linear regression
+"
+8,7906955,C4.5 Decision Tree,employ , employed,"  identifying suitable indicators
+"
+9,7906955,C4.5 Decision Tree,employ , employed," models
+"
+10,6884826,IFM model,include , includes," generalized Markov Graph ( GMG ) model
+"
+11,6884826,generalized Markov Graph GMG model,, as," social network model
+"
+12,6884826,diffusion,depend , depends," characteristics
+"
+13,8679493,Analysis,use , Using," Machine Learning
+"
+14,8752977,Analysis,give , Given," high popularity
+"
+15,7538346,Analysis,analyze , analyze," present
+"
+16,7538346,future predictions,utilize , utilizing," data mining
+"
+17,7538346,future predictions,utilize , utilizing," machine learning techniques learning
+"
+18,8721646,results,provide , provide," insightful views
+"
+19,8721646,results,provide , provide," - device free free Wi Fi indoor localization
+"
+20,8721646,- device free free Wi Fi indoor localization,use , using," channel state information
+"
+21,7925154,social networks,have , had," recent years
+"
+22,7925154,social networks,have , had," rapid development
+"
+23,7077296,SVM,be , was,"  discriminating between
+"
+24,7150873,work,focus , focuses," extraction
+"
+25,7150873,focuses,do , done," classifiers
+"
+26,7150873,order,ensure , ensure," correctness
+"
+27,7150873,validation,do , done," order
+"
+28,7150873,validation,do , done,"  employing same techniques
+"
+29,7150873,SVM,account , accounted," %
+"
+30,6979510,Analysis,impact , impacted," ground
+"
+31,6979510,air traffic demand,expect , expected," capacity
+"
+32,6979510,airport,'s , 's," capacity
+"
+33,8806531,Naive Bayes,use , used," Base classifiers
+"
+34,6687155,Analysis,grow , growing," scale
+"
+35,6687155,Empirical results,present , presented," insight
+"
+36,8806301,success,analyze , analyzed," purpose
+"
+37,8806301,success,analyze , analyzed," classification task
+"
+38,8806301,CNN,improve , improve," accuracy
+"
+39,4370724,HHT,compose , composed," empirical mode decomposition
+"
+40,8478463,multilayer neural network,use , used," signals
+"
+41,8478463,Fourier transform,analyze , analyzed," order
+"
+42,8478463,order,diagnose , diagnose," epilepsy
+"
+43,8478463,order,diagnose , diagnose," remission
+"
+44,8478463,order,diagnose , diagnose," absence
+"
+45,8718271,prediction method,play , plays," crucial roles
+"
+46,8718271,prediction method,play , plays," accurate prediction
+"
+47,6918792,feature selection techniques,test , tested," paper
+"
+48,6918792,feature selection techniques,test , tested," classifiers
+"
+49,6918792,feature selection techniques,test , tested,"  using Weka data mining tool
+"
+50,6918792,feature selection techniques,base , based on," Gain ratio attribute
+"
+51,6918792,Correlation feature selection,test , tested," paper
+"
+52,6918792,Correlation feature selection,test , tested," classifiers
+"
+53,6918792,Correlation feature selection,test , tested,"  using Weka data mining tool
+"
+54,8016343,main aim,be , is," analysis
+"
+55,8618142,Data,obtain , obtained," Twitter
+"
+56,8618142,Data,obtain , obtained," campaign
+"
+57,8618142,Data,use , used in," paper
+"
+58,8761601,Analysis,use , using," HTTP Proxy
+"
+59,8761601,enabled devices,become , become," current era
+"
+60,8674251,performance,compare , compared," data
+"
+61,8674251,data,use , using," - Java based based application
+"
+62,8674251,data,use , using," Hadoop
+"
+63,8674251,data,use , using," Hive
+"
+64,6553075,classification performance,use , using," classical dimensionality reduction methods
+"
+65,6553075,classical dimensionality reduction methods,, such as," principal component analysis
+"
+66,6553075,classical dimensionality reduction methods,, such as," independent component analysis
+"
+67,6553075,classical dimensionality reduction methods,, such as," random projections
+"
+68,6553075,recent techniques,, such as," - SVD - K based - SVD - K based based dictionary learning
+"
+69,8661446,implemented linear linear classification algorithms,use , used in," study
+"
+70,8661446,classifiers,use , used," principal component ( ) analysis
+"
+71,8661446,classifiers,use , used," dual variables
+"
+72,7273789,objective,be , is," performance
+"
+73,5675808,classifiers,use , used in," research
+"
+74,6147673,Classification methods,base , based on," support vector machines
+"
+75,6147673,various intestinal locations,use , using," profiles
+"
+76,8716412,Analysis,use , Using," Random Forest
+"
+77,8716412,Analysis,use , Using," XGBoost Models
+"
+78,8716412,paper,propose , proposes," comparative study
+"
+79,8716412,comparative study,use , using," machine learning learning algorithms
+"
+80,7473265,paper,suggest , suggests," novel method
+"
+81,7473265,ability,extract , extract," characteristic information
+"
+82,7473265,LS - SVM technique,broaden , broadens," application
+"
+83,7473265,solution,require , required," quadratic programming problem
+"
+84,7473265,LS - SVM,have , has," capability
+"
+85,8806296,Machine,learn , learning," algorithms
+"
+86,8806296,Machine,learn , learning," prices
+"
+87,8806296,ARIMA,perform better , performs better," LSTM
+"
+88,8806296,linear regression,perform better , performs better," other learning techniques
+"
+89,8691126,methods,introduce , introduced," paper
+"
+90,8691126,dataset,include , including," SVM
+"
+91,8691126,dataset,include , including," XGBoost
+"
+92,8691126,dataset,include , including," Random Forest
+"
+93,8691126,XGBoost,perform better , perform better," SVM
+"
+94,7289481,supervised techniques,support , support," vector ( ) machine
+"
+95,8452821,supervised learning algorithms,name , named as," Support Vector Machine
+"
+96,8452821,feature vectors,use , used," class prediction
+"
+97,8477601,learning algorithms,apply , applied," many classification problems
+"
+98,8477601,many classification problems,include , including," clinical studies
+"
+99,8477601,Detrended Fluctuation Analysis ( DFA ) feature,extract , extracted," EEG signal
+"
+100,8477601,KNN,apply , applied," different distance metrics
+"
+101,1467492,feature selection techniques,include , including," use
+"
+102,1467492,Gabor filters,use , using," AdaBoost
+"
+103,6889615,2s horizontal electro - oculogram ( HEO ) signal,recognize , recognized," problem
+"
+104,6889615,2s horizontal electro - oculogram ( HEO ) signal,recognize , recognized," methods
+"
+105,6889615,2s horizontal electro - oculogram ( HEO ) signal,recognize , recognized," category
+"
+106,6889615,2s horizontal electro - oculogram ( HEO ) signal,recognize , recognized," classifiers
+"
+107,7890982,Several classification methods,use , used," order
+"
+108,7890982,Several classification methods,include , including," Support Vector Machine
+"
+109,7890982,Several classification methods,include , including," Linear Classifier
+"
+110,7890982,Several classification methods,include , including," Naive Bayes
+"
+111,7890982,Several classification methods,include , including," K Nearest Neighbor
+"
+112,7890982,order,classify , classify," recorded data
+"
+113,7890982,Tibialis Anterior ( ) TA,distinguish , distinguish," learned subjects
+"
+114,7890982,Medial Gastrocnemius ( MG ) muscles,distinguish , distinguish," learned subjects
+"
+115,6547421,Unsupervised clustering techniques,base , based on," principal component analysis
+"
+116,6547421,Unsupervised clustering techniques,base , based on," Fuzzy C Means
+"
+117,6547421,Unsupervised clustering techniques,base , based on," - Self organizing organizing map
+"
+118,6547421,) SOM clustering,use , used," features
+"
+119,8375740,proposed methods,apply , applied," - correlation based based template matching
+"
+120,8375740,proposed methods,apply , applied,"  showing results showing convolution computing approach improves
+"
+121,8375740,convolution computing approach,improve , improves," performance
+"
+122,8375740,same operations,run , run on," personal computer
+"
+123,8217832,incorporating additional information,, such as," GC content information
+"
+124,8217832,performance,improve , improved,"  incorporating additional information
+"
+125,8594974,Unsupervised Representation Learning,represent , represented," hot encoded document frequency
+"
+126,5109694,approach,know , known as," Lasso
+"
+127,5109694,approach,know , known as," Basis Pursuit Denoising
+"
+128,8335369,scalable implementations,obtain , obtained," state proximal methods
+"
+129,8335369,Lasso,obtain , obtained," state proximal methods
+"
+130,8265371,training,benefit , benefit," training
+"
+131,8265371,training,benefit , benefit," multiple datasets
+"
+132,7126947,recurrent fuzzy neural cerebellar model articulation network,propose , proposed," study
+"
+133,8662570,interpolation precision,improve , improved," %
+"
+134,855471,SVM,'s , 's," remain
+"
+135,855471,SVM remain,, such as," Mercer condition
+"
+136,855471,SVM remain,, such as," fact
+"
+137,855471,Mercer,'s , 's," condition
+"
+138,855471,solution,characterize , characterized," set
+"
+139,855471,SVM,'s , 's," squares
+"
+140,6927623,model,outperform , outperforms,"  predicting sentiment label
+"
+141,6927623,model,outperform , outperforms," other used baselines
+"
+142,6927623,model,outperform , outperforms," large margin
+"
+143,6927623,other used baselines,, such as," Naïve Bayes
+"
+144,6927623,other used baselines,, such as," Maximum Entropy
+"
+145,6927623,other used baselines,, such as," SVM
+"
+146,1716262,comparison,use , using," different classifiers
+"
+147,1716262,best,regard , regarding," classification accuracy
+"
+148,8078953,Moore Penrose,generalize , generalized," inverse
+"
+149,8078953,RSVD - F - ELM,be , is,"  adopting same architecture adopting as
+"
+150,8078953,RSVD - F - ELM,generate , generates," larger accuracy rates
+"
+151,4378279,recursive SVM ( ) RSVM,present , presented," letter
+"
+152,4378279,several orthogonal directions,obtain , obtained," which
+"
+153,4378279,RSVM,do , do," efficient dimensionality reduction
+"
+154,4378279,RSVM,use , using," multilevel maximum margin features
+"
+155,7372544,proposed ALG - ANT FIR filter dot product kernels,apply , applied," feature extractor
+"
+156,7140481,objective QoE algorithms,represent , represent," good substitution
+"
+157,7140481,image,base , based on," Deep Learning
+"
+158,8423078,letter,introduce , introduces," causal Bayesian network model
+"
+159,8384310,paper,propose , proposes," deep learning approach
+"
+160,8367638,approach,implement , implemented," Apache Spark
+"
+161,7091204,false alarms,lower , lower," usability
+"
+162,8818218,works,apply , applied," deep learning techniques
+"
+163,8818218,deep learning techniques,, such as," Convolutional Neural Network
+"
+164,8818218,deep learning techniques,, such as," Long Short Term Memory
+"
+165,7079087,KDD CUP data set,generate , generated," domain expert
+"
+166,7079087,KDD CUP data set,generate , generated," MIT Lincon lab
+"
+167,6226427,performance,characterize , characterized," software projects
+"
+168,7435705,fast Single hidden layer,fee , feed," forward network
+"
+169,7435705,fast Single hidden layer,fee , feed," good generalization performance
+"
+170,7867252,dynamic head,pose , pose," recognition method
+"
+171,8447763,work,propose , proposes," Empirical mode ( ) decomposition
+"
+172,8217734,set,sever , severed," input support
+"
+173,8217734,input,support , support," vector ( ) ) machine
+"
+174,5732709,paper,propose , proposes," concept
+"
+175,5732709,paper,propose , proposes," order
+"
+176,5732709,order,solve , solve," data classification problems
+"
+177,5732709,purpose,be , is," selections
+"
+178,5732709,proposed GS - LSSVM,produce , produce," classification model
+"
+179,5732709,GS - LSSVM,outperform , outperform," terms
+"
+180,5732709,GS - LSSVM,outperform , outperform," other methods
+"
+181,5732709,other methods,list , listed in," paper
+"
+182,4028619,modified fuzzy Bayesian ( ) network,propose , proposed," study
+"
+183,5958085,objective,be , is," productivity
+"
+184,5958085,Cisco text analytics system,term , termed," Service Request Analyzer
+"
+185,8734225,operation,validate , validated," variety
+"
+186,8734225,Bianchi,'s , 's," model
+"
+187,8683000,KL scale spectrograms,evaluate , evaluated," public ASC datasets
+"
+188,8683000,Conditional Generative Adversarial Nets,model , model," data augmentation
+"
+189,6957236,experiments,show , showing with," Kylix
+"
+190,6957236,existing systems,, such as," PowerGraph
+"
+191,6957236,existing systems,, such as," Hadoop
+"
+192,7280379,order,solve , solve," problems
+"
+193,7280379,LPN,learn , learns," representative prototypes
+"
+194,7280379,LPN,learn , learns," online way
+"
+195,7280379,PSL,record , records," learned prototypes
+"
+196,7280379,PSL,record , records,"  trained on trained SVM trained is
+"
+197,7280379,SVM,train , trained," which
+"
+198,7280379,size,be , is," comparison
+"
+199,8805762,used features,be , are," Windows
+"
+200,8805762,used features,be , are," executable files
+"
+201,8805762,behavioural metrics,, such as," CPU usage
+"
+202,8554265,proposed analysis,perform , performed," algorithms
+"
+203,8554265,proposed analysis,perform , performed," channel
+"
+204,8554265,SVM ) classifier,use , used," indicator
+"
+205,5451921,( RBF ) kernel,decrease , decrease," minority class misclassification ratio
+"
+206,4696361,immune network model,produce , produces," better accuracy rate
+"
+207,4696361,immune network model,produce , produces," most
+"
+208,8488463,- known data,set , sets," CIFAR-10
+"
+209,8488463,CIFAR100,use , used,"  testing network classification accuracy
+"
+210,8488463,network,'s , 's," accuracy
+"
+211,7797053,paper,present , presents," impact
+"
+212,7797053,automatic feature extraction,use , used in," deep learning architecture
+"
+213,7797053,deep learning architecture,, such as," Convolutional Neural Network
+"
+214,7797053,CNN,evaluate , evaluated," number
+"
+215,7797053,simple traditional - Layer Perceptron manual feature extraction,evaluate , evaluated," same benchmark datasets
+"
+216,7797053,feature extraction,perform better , performs better," simple feature
+"
+217,7797053,traditional MLP,perform , perform good," CNN
+"
+218,6838347,server availability,derive , derived from," problem ticket analysis Technology refresh
+"
+219,6838347,goal,be , is," impact
+"
+220,6838347,impact,base , based on," large set
+"
+221,6838347,server,attribute , attributes," data
+"
+222,6838347,data,collect , collected from," several different IT environments
+"
+223,8690739,machine learning models,compare , compared," prediction models
+"
+224,8737595,server centric network topology,, such as," BCube
+"
+225,8478181,effects,investigate , investigated," paper
+"
+226,8478181,decreasing sampling rates,range , ranging from," 200/128
+"
+227,8620876,impacts,examine , examined," sets
+"
+228,7724970,different models,develop , developed," study
+"
+229,7724970,based MLP model,base , based," hybrid MLP model
+"
+230,8489519,“ noise,degrade , degrade," deep RL performance
+"
+231,8640999,study,focus , focuses," comparative performance analysis
+"
+232,8640999,postoperative kinematics prediction,use , using," - PCA based based feature extraction
+"
+233,8640999,study,recommend , recommends," best ML ( ) method
+"
+234,7379882,output data results,obtain , obtained," data ) accuracy
+"
+235,7379882,results,process , processed in," machine
+"
+236,8702011,Most monitoring systems,collect , collect," data
+"
+237,8702011,Most monitoring systems,collect , collect," PV inverter
+"
+238,8702011,Most monitoring systems,collect , collect," RTU
+"
+239,4303655,structural risk ( ) minimization,be , is," statistical learning theory
+"
+240,7000371,order,achieve , achieve," this
+"
+241,1206576,application prototype,test , tested," Kennedy Space Center
+"
+242,1206576,astronauts,evacuate , evacuate," NASA Shuttle
+"
+243,8091310,paper,give , gives," details
+"
+244,8091310,real time recommendation system,use , using," Apache Spark
+"
+245,8091310,system,use , uses," distributed processing power
+"
+246,8091310,system,use , uses," recommendations
+"
+247,8807891,virtual machine,run , running," Linux operating system
+"
+248,7058919,Implementation,know , known," major problems
+"
+249,7058919,major problems,implement , implemented on," FPGAs
+"
+250,8074997,workflow,use , using," Apache Spark
+"
+251,8074997,drop prediction models,use , using," various algorithms
+"
+252,8074997,various algorithms,, such as," Random Forest
+"
+253,8074997,various algorithms,, such as," Gradient Boost
+"
+254,8074997,various algorithms,, such as," Logistic Regression
+"
+255,7438102,paper,propose , proposes," efficient islanding detection
+"
+256,7438102,efficient islanding detection,base , based on," Extreme Learning Machine ELM algorithm
+"
+257,7438102,based distributed ( ) generation,connect , connected," power grid
+"
+258,7438102,proposed DG Model,develop , developed," MATLAB Simulink environment
+"
+259,7438102,performance,compare , compared," some
+"
+260,8076007,- learning techniques,deploy , deployed," purpose
+"
+261,7879617,proposed model,suggest , suggests," decomposition
+"
+262,7879617,input signal,use , using," EMD
+"
+263,7879617,resultant IMFs,classify , classified," categories
+"
+264,7879617,Pearson Correlation ( ) Coefficient,use , used," supervised training
+"
+265,1658010,offline training time,be , is," SVM
+"
+266,8324117,final machine learning learning methods,, such as," Support Vector Machine
+"
+267,8324117,final machine learning learning methods,, such as," K Nearest Neighbor
+"
+268,8324117,Ensemble,use , used," final machine learning learning methods
+"
+269,8324117,Ensemble,use , used," classification
+"
+270,7737981,ensemble,create , created Second," decision
+"
+271,7737981,classifiers,include , including," MLP
+"
+272,7737981,classifiers,include , including," KNN
+"
+273,7737981,classifiers,include , including," SVM
+"
+274,7737981,majority voting method,use , used," results
+"
+275,6119670,Vapnik,'s , 's," machine
+"
+276,6119670,optimization problem,solve , solved,"  exploiting techniques exploiting in exploiting to
+"
+277,6119670,kernels,denote , denoted as," OLK sub
+"
+278,6119670,OLK,sub , sub," >
+"
+279,6885254,performance,evaluate , evaluated," several diseases data sets
+"
+280,6885254,proposed technique,base , based on," SVM
+"
+281,6885254,several diseases data sets,take , taken from," UCI machine
+"
+282,6885254,UCI machine,learn , learning," repository
+"
+283,6885254,proposed technique,improve , improve," Sensitivity value
+"
+284,6885254,proposed technique,base , based on," SVM
+"
+285,6019663,new regression method,base , based on," SVM classification
+"
+286,5942028,dataset Support Vector Machine SVM classification,use , used," accuracy
+"
+287,8386493,Experiment results,demonstrate , demonstrate," effectiveness
+"
+288,6683853,dimension,reduce , reduced,"  using nonnegative matrix factorization
+"
+289,6683853,short term load forecasting model,base , based on," RVM
+"
+290,6683853,input data,decompose , decomposed,"  using NMF algorithm
+"
+291,6683853,nonnegative lower - dimension mapping matrix,take , taken," input
+"
+292,6683853,nonnegative lower - dimension mapping matrix,take , taken," training
+"
+293,5400292,new soft sensor modeling method,base , based on," modified AdaBoost
+"
+294,5400292,incremental learning,aim , Aiming at," characteristics
+"
+295,5400292,RT,use , used," models
+"
+296,5400292,RT,propose , proposed,"  improving performance
+"
+297,5400292,RT,overcome , overcome," disadvantages
+"
+298,5400292,RT,improve , improve," prediction accuracy
+"
+299,7829972,way,be , is," logic
+"
+300,7829972,CPU,realize , realize," more complex algorithms
+"
+301,8393002,classification accuracy,be , is," USPS
+"
+302,6930160,results,present , presented in," paper show
+"
+303,6930160,proposed weighting scheme,produce , produce," higher retrieval effectiveness
+"
+304,6930160,proposed weighting scheme,produce , produce," static document collections
+"
+305,8377198,- reference user centric QoE model,present , presents," novel Quality ( QoE ) prediction model
+"
+306,8377198,reference user centric QoE model,base , based on," G radio measurements
+"
+307,8377198,paper,present , presents," novel Quality ( QoE ) prediction model
+"
+308,8377198,novel Quality QoE prediction model,base , based on," real Universal Mobile Telecommunications System
+"
+309,8377198,novel Quality QoE prediction model,base , based on," Long Term Evolution LTE data
+"
+310,8377198,Support Vector Regression ( SVR ) algorithm,use , used," metrics
+"
+311,8377198,QoE model,present , presented," Root Mean Square ( ) Error
+"
+312,7566254,math CAPTCHA design,base , based on," Boolean algebra
+"
+313,7566254,Boolean algebra,use , using," digital gates
+"
+314,7566254,OCR CAPTCHA design,base , based on," Mathematical Boolean algebra
+"
+315,7072685,proposed algorithm,test , tested," image database
+"
+316,8324083,new ensemble,propose , proposed," paper
+"
+317,8324083,Gaussian distributions,form , formed on," conditional dependent features
+"
+318,6045038,qualitative analysis method,base , based on," SVM Currently
+"
+319,6045038,most pesticide residue analysis methods,base , based," mass spectrometry instruments
+"
+320,6045038,mass spectrometry instruments,, such as," Gas Chromatography Mass Spectrometry analyzers
+"
